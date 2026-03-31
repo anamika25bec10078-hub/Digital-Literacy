@@ -44,7 +44,7 @@ The full project report, including reflections and detailed write-ups for all ta
 ---
 
 ## Tools Used
-- Design: Canva / Prezi 
+- Design: Canva, Prezi and Miro
 - Version Control: GitHub 
-- [cite_start]Collaboration: Google Workspace [cite: 51]
-- [cite_start]Coding: HackerRank / CodeChef [cite: 47]
+- Collaboration: Google Workspace 
+- Coding: HackerRank / CodeChef 
